@@ -46,6 +46,11 @@ streamlit run main.py
 
 Once the application is running, you can interact with it by following the on-screen instructions at `http://localhost:8501`
 
+## Screenshots
+
+![alt text](https://github.com/norhel/wizelineai/blob/main/bach0.png?raw=true)
+![alt text](https://github.com/norhel/wizelineai/blob/main/bach1.png?raw=true)
+![alt text](https://github.com/norhel/wizelineai/blob/main/bach2.png?raw=true)
 ## License
 
 This project is licensed under the MIT License
