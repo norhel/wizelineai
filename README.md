@@ -9,7 +9,7 @@ This is a recommendation system for getting Bach's Flower Remedies, having the p
 1. Clone the repository
 
 ```bash
-git clone https://github.com/joeychrys/streamlit-chatGPT.git
+git clone https://github.com/norhel/wizelineai.git
 ```
 
 2. Create a `.env` file and add your `OPENAI_API_KEY`
@@ -27,7 +27,7 @@ source env/bin/activate
 4. Move to project directory
 
 ```bash
-cd streamlit-chatGPT
+cd wizelineai
 ```
 
 5. Install the required packages
@@ -36,7 +36,7 @@ cd streamlit-chatGPT
 pip install -r requirements.txt
 ```
 
-6. Run the Streamlit application
+6. Run the Streamlit Recommendation System for Bach's Flower Remedy application
 
 ```bash
 streamlit run main.py
